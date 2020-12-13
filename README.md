@@ -75,7 +75,7 @@ Pada awalnya cukup awam dengan pembagian netmask pada tree (sampai sekarang kura
 
 **Pembagian Netmask**
 
-![uml-cidr](asset/umlcidr.jpg)
+![uml-cidr](asset/CIDR.jpg)
 
 **Netmask tree**
 
