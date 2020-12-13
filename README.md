@@ -78,7 +78,7 @@ Pada awalnya cukup awam dengan pembagian netmask pada tree (sampai sekarang kura
 ![uml-cidr](asset/CIDR.jpg)
 
 **Netmask tree**
-
+![tree-cidr](asset/CIDRtree.jpg)
 **Routing**
 
 1. SURABAYA
